@@ -1,0 +1,5 @@
+ttkthemes==3.2.2 # For modern Tkinter themes
+tkcalendar==1.6.1 # For calendar widgets
+matplotlib==3.8.4 # For plotting graphs in the progress page
+pandas==2.2.2 # For data manipulation, especially for plotting
+PyInstaller==6.8.0 # For creating standalone executables (used by build_app.py)
