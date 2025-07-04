@@ -31,10 +31,10 @@ To run this application locally, follow these steps:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/MindSyncCBT.git](https://github.com/your-username/MindSyncCBT.git)
+    git clone [https://github.com/nirmalya-iitkgp/CBT-App.git](https://github.com/nirmalya-iitkgp/CBT-App.git)
     cd MindSyncCBT
     ```
-    (Replace `your-username/MindSyncCBT` with your actual GitHub repository path if different)
+    
 
 2.  **Create a Virtual Environment (Recommended):**
     ```bash
